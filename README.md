@@ -63,7 +63,7 @@ The following features are planned and will be added as the project evolves.
 
 Once hosted, the project will be available at:
 
-****
+**https://forensic-analyzer.sayanimaity78.site/**
 
 ---
 
